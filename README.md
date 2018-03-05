@@ -1,6 +1,11 @@
-# Unstripped iOS Kernels
-* iOS 11.0(xnu-4570.1.46)
+# Unstripped iOS Kernels with All Symbols
+* iOS 11.0.x(xnu-4570.1.46)
+	* mach.debug.t7000.unstripped
+	* mach.development.t7000.unstripped
+	* mach.release.t7000.unstripped
 
 # Contact
-* https://twitter.com/ProteasWang
-* http://weibo.com/proteaswang
+* Weibo : [Proteas](http://weibo.com/proteaswang)
+* Twitter : [ProteasWang](https://twitter.com/ProteasWang)
+
+
