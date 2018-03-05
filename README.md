@@ -3,6 +3,7 @@
 	* mach.debug.t7000.unstripped
 	* mach.development.t7000.unstripped
 	* mach.release.t7000.unstripped
+* Hope these are helpfull to your research. :)
 
 # Contact
 * Weibo : [Proteas](http://weibo.com/proteaswang)
