@@ -7,6 +7,11 @@
 	* mach.debug.t8010.unstripped
 	* mach.development.t8010.unstripped
 	* mach.release.t8010.unstripped
+* iOS 12.1(xnu-4903.221.2)
+	* mach.debug.t8010.unstripped
+	* mach.development.t8010.unstripped
+	* mach.release.t8010.unstripped
+	* mach.debug.bcm2837.unstripped(Raspberry Pi 3)
 * Hope these are helpfull to your research. :)
 
 # Contact
