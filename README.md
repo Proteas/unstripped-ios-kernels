@@ -16,6 +16,8 @@
 	* [mach.debug.t8010.unstripped](./iOS-v13.0/mach.debug.t8010.unstripped.7z)
 	* [mach.development.t8010.unstripped](./iOS-v13.0/mach.development.t8010.unstripped.7z)
 	* [mach.release.t8010.unstripped](./iOS-v13.0/mach.release.t8010.unstripped.7z)
+* iOS 13.0(xnu-6153.11.26)-arm64e
+	* [mach.release.t8010.unstripped](./iOS-v13.0-arm64e/mach.release.t8010.unstripped.7z)
 * Hope these are helpfull to your research. :)
 
 # Contact
